@@ -15,4 +15,4 @@ To add a new centre. Please click on <a href="https://app.purpos.ai/centers/new/
 -   "Area Name" should be more relevant.
 -   "Address" Please select the address from auto-complete if possible. This will help us to find the exact location for attendence and other tracking.
 
-[Next Step](/add-subscription/){: .btn .btn-purple .mr-2 }
+[Next Step](/on-board/add-subscription.html){: .btn .btn-purple .mr-2 }
