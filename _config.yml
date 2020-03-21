@@ -32,7 +32,7 @@ github_username: jekyll
 remote_theme: pmarsceill/just-the-docs
 logo: '/assets/images/logo.png'
 aux_links: 'Copyright &copy; Dotstori Ltd. All rights reserved.'
-ga_tracking: UA-140425874-4
+ga_tracking: UA-140425874-5
 
 search_enabled: true
 
