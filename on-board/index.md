@@ -15,6 +15,5 @@ Before getting started please make sure you have the below information
 -   Subscription Detail
 -   Student List
 -   Trainer List
--
 
 [Yes I have, Get Started](/on-board/add-centre.html){: .btn .btn-purple .mr-2 }
