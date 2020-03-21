@@ -1,5 +1,5 @@
 ---
 layout: default
 title: Coaches
-nav_order: 3
+nav_order: 30
 ---

@@ -1,5 +1,5 @@
 ---
 layout: default
 title: Dairy Notes
-nav_order: 7
+nav_order: 70
 ---

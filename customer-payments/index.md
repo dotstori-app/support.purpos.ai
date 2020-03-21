@@ -1,5 +1,5 @@
 ---
 layout: default
 title: Customer Payments
-nav_order: 5
+nav_order: 50
 ---
