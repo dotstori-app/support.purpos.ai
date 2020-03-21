@@ -22,7 +22,7 @@ function checkCookie() {
     // Get cookie using our custom function
     var session = getCookie('_purpos_session');
     console.log(session);
-    if (session === '') {
+    if (!session) {
         window.location = 'https://app.purpos.ai/admins/sign_in';
     }
     /*
