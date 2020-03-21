@@ -20,8 +20,11 @@ function getCookie(name) {
 
 function checkCookie() {
     // Get cookie using our custom function
-    var _gid = getCookie('_gid');
-    console.log(_gid);
+    var session = getCookie('_purpos_session');
+    console.log(session);
+    if (session === '') {
+        window.location = 'https://app.purpos.ai/admins/sign_in';
+    }
     /*
     if (firstName != '') {
         alert('Welcome again, ' + firstName);
