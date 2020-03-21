@@ -4,5 +4,3 @@
 
 layout: home
 ---
-
-<script src="./auth.js"></script>

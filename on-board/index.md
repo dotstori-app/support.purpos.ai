@@ -5,6 +5,8 @@ nav_order: 1
 has_children: true
 ---
 
+<script src="../auth.js"></script>
+
 # Welcome to Purpos
 
 We are delighted to have you among us. On behalf of all the members and the management, we would like to extend our warmest welcome and good wishes!
