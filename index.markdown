@@ -8,8 +8,7 @@ layout: home
 <style>
   .flex {display:flex;flex-wrap: wrap;}
   .flex .flex-item {
-    flex-grow: 1;
-    width: 20%;
+    flex: 0 46%;
     text-align: center;
     box-shadow: #ebebeb 1px 1px 5px 1px;
     border-radius: 8px;
@@ -68,6 +67,5 @@ We are delighted to have you among us. On behalf of all the members and the mana
       <span>Trainer App</span>
     </a>
   </div>
-  
   
 </div>
