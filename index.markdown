@@ -5,6 +5,8 @@
 layout: home
 ---
 
+<script src="/auth.js"></script>
+
 <style>
   .flex {display:flex;flex-wrap: wrap;}
   .flex .flex-item {

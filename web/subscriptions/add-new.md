@@ -1,0 +1,40 @@
+---
+layout: post
+title: Add New Subscription
+grand_parent: Web
+parent: Subscriptions
+nav_order: 1
+has_toc: false
+---
+
+<script src="/auth.js"></script>
+
+# Add New Subscription
+
+To add a new subscription. Please click on <a>Configurations</a> from the left menu and click on <a>Add New</a> to fill the details. You can create monthly, Day based or Session-based subscriptions.
+
+![Centre screenshot](/assets/images/subscription/add-new.jpg)
+
+#### Help
+
+-   Step 1: Click on “Add New” Button
+-   Step 2: Fill the name of subscription, eg. Basic 3 Months Package, Select type (Monthly Package, Daily Package or Session-based Package” <br />
+    -- If “Monthly” package, please select number of months (You can select up to 12 months).<br />
+    -- If the “Days” package, select the number of days.<br />
+    -- If “Sessions” package, select minutes (30, 60, 90, 120, minimum 30 minutes to 2hours). Enter the number of sessions in session count, for eg. 20 sessions. Enter the number of days that the session is valid. For example 20 sessions and valid up to 60 days.
+-   Step 3: Enter the amount of the fees
+
+<br />
+<br />
+
+<script>
+  const page_queryString = window.location.search;
+const page_urlParams = new URLSearchParams(page_queryString);
+var is_onboard = page_urlParams.get('onboard') || '';
+if (is_onboard) {
+  document.write('<a href="#getting-started" style="float:right;" class="btn btn-primary fs-5 mb-4 mb-md-0 mr-2">Next: Add Students</a>');
+}
+</script>
+
+<br />
+<br />

@@ -32,6 +32,9 @@ logo: '/assets/images/logo.png'
 ga_tracking: UA-140425874-5
 
 search_enabled: true
+heading_anchors: true
+
+footer_content: 'Copyright &copy; purpos.ai. All rights reserved.'
 
 # Build settings
 theme: minima

@@ -23,7 +23,8 @@ function checkCookie() {
     var session = getCookie('_purpos_session');
     console.log(session);
     if (!session) {
-        window.location = 'https://app.purpos.ai/admins/sign_in';
+        console.log('not yet logged in');
+        // window.location = 'https://app.purpos.ai/admins/sign_in';
     }
     /*
     if (firstName != '') {

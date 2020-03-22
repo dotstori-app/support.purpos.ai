@@ -7,4 +7,6 @@ has_children: true
 has_toc: false
 ---
 
+<script src="/auth.js"></script>
+
 # Parent App
