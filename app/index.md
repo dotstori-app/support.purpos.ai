@@ -1,15 +1,18 @@
 ---
-# Feel free to add content and custom Front Matter to this file.
-# To modify the layout, see https://jekyllrb.com/docs/themes/#overriding-theme-defaults
-
-layout: home
+layout: default
+title: Mobile Application
+nav_order: 10
+has_children: true
+has_toc: false
 ---
+
+# Mobile Application
 
 <style>
   .flex {display:flex;flex-wrap: wrap;}
   .flex .flex-item {
     flex-grow: 1;
-    width: 20%;
+    width: 10%;
     text-align: center;
     box-shadow: #ebebeb 1px 1px 5px 1px;
     border-radius: 8px;
@@ -34,40 +37,27 @@ layout: home
   }
 </style>
 
-# Welcome to Purpos.ai
-
-We are delighted to have you among us. On behalf of all the members and the management, we would like to extend our warmest welcome and good wishes!
-
-### How can we help?
-
 <div class="flex">
 
   <div class="flex-item">
     <a href="/app/admin-app/">
-      <img src="./assets/images/mobile.svg" width="75" />
+      <img src="../assets/images/mobile.svg" width="75" />
       <span>Admin App</span>
-    </a>
-  </div>
-  <div class="flex-item">
-    <a href="/web/">
-      <img src="./assets/images/desktop.svg" width="75" />
-      <span>Admin web</span>
     </a>
   </div>
 
   <div class="flex-item">
     <a href="/app/parent-app/">
-      <img src="./assets/images/mobile.svg" width="75" />
+      <img src="../assets/images/mobile.svg" width="75" />
       <span>Parent App</span>
     </a>
   </div>
 
   <div class="flex-item">
     <a href="/app/trainer-app/">
-      <img src="./assets/images/mobile.svg" width="75" />
+      <img src="../assets/images/mobile.svg" width="75" />
       <span>Trainer App</span>
     </a>
   </div>
-  
-  
+
 </div>
