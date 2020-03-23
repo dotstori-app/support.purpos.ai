@@ -14,6 +14,8 @@ has_toc: false
 To add a new center. Please click on <a>Add New</a> from <a href="https://app.purpos.ai/groups" target="_blank">https://app.purpos.ai/groups</a> page and please fill the basic information.
 
 ![Centre screenshot](/assets/images/centre/add-new.jpg)
+<br /><br />
+![Centre screenshot](/assets/images/centre/add-new-form.jpg)
 
 #### Help
 
@@ -23,7 +25,6 @@ To add a new center. Please click on <a>Add New</a> from <a href="https://app.pu
 -   Step 4: Click on the created center to navigate.
 -   Step 5: If you want to create another centre click on the logo to take you back to centres dashboard.
 
-<br />
 <br />
 
 <script>
