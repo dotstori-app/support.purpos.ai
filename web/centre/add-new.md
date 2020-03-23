@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Add New Centre
-grand_parent: Web
+grand_parent: Web Application
 parent: Centre
 nav_order: 1
 has_toc: false
@@ -20,7 +20,8 @@ To add a new center. Please click on <a>Add New</a> from <a href="https://app.pu
 #### Help
 
 -   Step 1: Click on “Add New” button
--   Step 2: Fill Center Name, Type, Category, Area Name, Opening Hours, Closing Hours, Address, Centre Photo.
+-   Step 2: Fill Center Name, Type, Category, Area Name, Opening Hours, Closing Hours, Address, Centre Photo. <br />
+Category Name: Student and Members have same functionality. 
 -   Step 3: Click “Submit” to create a center
 -   Step 4: Click on the created center to navigate.
 -   Step 5: If you want to create another centre click on the logo to take you back to centres dashboard.

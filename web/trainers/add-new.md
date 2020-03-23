@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Add New Trainer/Staff
-grand_parent: Web
+grand_parent: Web Application
 parent: Trainers/Staffs
 nav_order: 1
 has_toc: false

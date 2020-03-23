@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Add New Subscription
-grand_parent: Web
+grand_parent: Web Application
 parent: Subscriptions
 nav_order: 1
 has_toc: false

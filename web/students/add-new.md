@@ -1,7 +1,7 @@
 ---
-layout: post
+layout: default
 title: Add New Student/Member
-grand_parent: Web
+grand_parent: Web Application
 parent: Students/Members
 nav_order: 1
 has_toc: false
