@@ -26,7 +26,7 @@ To add a new Trainer/Staff. Please click on <a>Trainers</a> / <a>Staffs</a> from
 const page_urlParams = new URLSearchParams(page_queryString);
 var is_onboard = page_urlParams.get('onboard') || '';
 if (is_onboard) {
-  document.write('<a href="/web/trainers/add-new.html" style="float:right;" class="btn btn-primary fs-5 mb-4 mb-md-0 mr-2">Next: Add Trainers</a>');
+  document.write('<a href="/web/slots/add-new.html" style="float:right;" class="btn btn-primary fs-5 mb-4 mb-md-0 mr-2">Next: Add Slots</a>');
 }
 </script>
 
