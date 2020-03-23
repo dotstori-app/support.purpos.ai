@@ -23,7 +23,7 @@ email: info@purpos.ai
 description: >- # this means to ignore newlines until "baseurl:"
     Welcome to Purpos.ai Support page.
 baseurl: '' # the subpath of your site, e.g. /blog
-url: '' # the base hostname & protocol for your site, e.g. http://example.com
+url: 'https://support.purpos.ai' # the base hostname & protocol for your site, e.g. http://example.com
 twitter_username: purposdotai
 github_username: jekyll
 
@@ -40,6 +40,7 @@ footer_content: 'Copyright &copy; purpos.ai. All rights reserved.'
 theme: minima
 plugins:
     - jekyll-feed
+    - jekyll-sitemap
 # Exclude from processing.
 # The following items will not be processed, by default.
 # Any item listed under the `exclude:` key here will be automatically added to
