@@ -3,7 +3,7 @@
 # To modify the layout, see https://jekyllrb.com/docs/themes/#overriding-theme-defaults
 
 layout: home
-title: Welcome to purpos.ai support
+title: Support Home
 description: purpos.ai support is here to help. Learn more about popular topics and find resources that will help you with all of your purpos application.
 ---
 
