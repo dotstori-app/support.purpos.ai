@@ -42,32 +42,31 @@ We are delighted to have you among us. On behalf of all the members and the mana
 ### How can we help?
 
 <div class="flex">
-
+  <!--
   <div class="flex-item">
     <a href="/app/admin-app/">
       <img src="./assets/images/mobile.svg" width="75" />
       <span>Admin App</span>
     </a>
-  </div>
+  </div> -->
   <div class="flex-item">
     <a href="/web/">
       <img src="./assets/images/desktop.svg" width="75" />
       <span>Admin web</span>
     </a>
   </div>
-
+<!--
   <div class="flex-item">
     <a href="/app/parent-app/">
       <img src="./assets/images/mobile.svg" width="75" />
       <span>Parent App</span>
     </a>
   </div>
-
   <div class="flex-item">
     <a href="/app/trainer-app/">
       <img src="./assets/images/mobile.svg" width="75" />
       <span>Trainer App</span>
     </a>
-  </div>
+  </div> -->
   
 </div>

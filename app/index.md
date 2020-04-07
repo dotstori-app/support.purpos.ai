@@ -1,12 +1,12 @@
 ---
 layout: default
 title: Mobile Application
-nav_order: 10
+nav_order: 30
 has_children: true
 has_toc: false
 ---
 
-# Mobile Application
+# Mobile Applications
 
 <script src="/auth.js"></script>
 
